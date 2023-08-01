@@ -1,5 +1,5 @@
-# Content type support
-Compilation of apps that support standard content types
+# Feature support list
+Compilation of apps that support different features.
 
 ## Attachments
 
